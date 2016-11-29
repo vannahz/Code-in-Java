@@ -1,5 +1,5 @@
 
-class 1_BinaryGap {
+class L1_BinaryGap {
 	
     public static int solution(int N) {
     	
