@@ -1,4 +1,4 @@
-public class Solution {
+public class L219 {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         
         if(nums==null || nums.length<2) return false;
