@@ -1,4 +1,4 @@
-public class Solution {
+public class L217 {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<Integer>();
 		int len = nums.length;
