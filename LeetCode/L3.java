@@ -1,4 +1,4 @@
-public class Solution {
+public class L3 {
     public int lengthOfLongestSubstring(String s) {
         int ans = 0;
 	     int[] C = new int[256];  //represent character.
