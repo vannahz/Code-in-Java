@@ -1,5 +1,5 @@
 
-public class Solution2_1 {
+public class L2_1_CyclicRotation {
 
 	public static int solution(int[] A) {
 		
