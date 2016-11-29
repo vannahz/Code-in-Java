@@ -1,4 +1,4 @@
-public class Solution {
+public class L409 {
     public int longestPalindrome(String s) {
        
        char[] c = s.toCharArray();
