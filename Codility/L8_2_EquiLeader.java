@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution8_1 {
+public class L8_2_EquiLeader {
 
 	public static int solution(int[] A) {
     // write your code in Java SE 8
