@@ -19,7 +19,6 @@ public class L9_2_MaxSliceSum {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		int[] A = {10, 2, -11, 12, -7, 9};
 		
