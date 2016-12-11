@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution8_2 {
+public class L8_1_Dominator {
 
 	public static int solution(int[] A) {
 		
